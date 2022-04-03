@@ -12,7 +12,6 @@ Je laisse toutes les options à blanc  `entrer`
 
 pas de wins `entrer`
 
-<img src="../../../_resources/793100713bc7b296364c4b1470879e41.png" alt="793100713bc7b296364c4b1470879e41.png" width="569" height="394" class="jop-noMdConv">
 
 Comme je n’avais pas encore fait les calculs je n’ai pas défini de plage d’adresses. Je reviens donc plus tard dessus via le Gestionnaire de serveur clic droit et on peut ajouter des services, options, redémarrer …)
 
