@@ -15,3 +15,6 @@ pas de wins `entrer`
 
 Comme je n’avais pas encore fait les calculs je n’ai pas défini de plage d’adresses. Je reviens donc plus tard dessus via le Gestionnaire de serveur clic droit et on peut ajouter des services, options, redémarrer …)
 
+*italique*
+
+**gras**
