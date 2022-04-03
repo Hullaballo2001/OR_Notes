@@ -62,30 +62,30 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/rouliettaaa"
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Hullaballo2001"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-LinkedIn"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-Linkedin"
       url: "https://linkedin.com/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/rouliettaaa"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/rouliettaaa"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Hullaballo2001"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-LinkedIn"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-Linkedin"
       url: "https://linkedin.com/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/rouliettaaa"
 
 defaults:
   # _posts
