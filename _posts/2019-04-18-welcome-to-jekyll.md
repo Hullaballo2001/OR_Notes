@@ -2,7 +2,7 @@
 title: "Welcome to AIS !"
 date: 2022-04-18T15:34:30-04:00
 categories:
-  - blog AIS 2022
+  - AIS
 tags:
   - AIS
   - Réseau
