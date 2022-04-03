@@ -45,3 +45,11 @@ pas de wins `entrer`
 <img src=":/9601ef4a7042495f8eb4d945526e7eba" alt="793100713bc7b296364c4b1470879e41.png" width="569" height="394" class="jop-noMdConv">
 
 Comme je n’avais pas encore fait les calculs je n’ai pas défini de plage d’adresses. Je reviens donc plus tard dessus via le Gestionnaire de serveur clic droit et on peut ajouter des services, options, redémarrer …)
+
+`ipconfig /release`
+
+`ipconfig /renew`
+
+Le pc prend bien une adresse ip incluse dans la plage définie sur le serveur DHCP
+
+`ipconfig /all`
