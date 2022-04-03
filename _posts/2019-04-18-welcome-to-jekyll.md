@@ -10,8 +10,15 @@ tags:
   - Windows server 
 ---
 
-## REste à voir :
+## Reste à voir :
 - comment gérer les images
+
+# titre 1
+## titre 2
+### titre 3
+'code'
+*italique*
+**gras**
 
 ```ruby
 def print_hi(name)
