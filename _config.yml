@@ -59,8 +59,8 @@ plugins:
 
 author:
   name   : "Hullaballo2001"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/Leïa.jpg"
+  bio    : "OR = Operating Room"
   links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
@@ -69,7 +69,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Hullaballo2001"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-Linkedin"
+      icon: "fab fa-fw fa-Linkedin-square"
       url: "https://linkedin.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -81,7 +81,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Hullaballo2001"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-Linkedin"
+      icon: "fab fa-fw fa-Linkedin-square"
       url: "https://linkedin.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
