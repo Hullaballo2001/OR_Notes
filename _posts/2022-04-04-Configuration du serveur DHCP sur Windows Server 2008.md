@@ -5,7 +5,7 @@ categories:
 tags:
   - AIS
   - DHCP
-link: https://github.com
+link: https://github.com/Hullaballo2001/OR_Notes/blob/2ef9640da69a6a5b865783ff12ffdea87599989b/_posts/2022-04-04-Configuration%20du%20serveur%20DHCP%20sur%20Windows%20Server%202008.md
 ---
 
 configuration du serveur DHCP sur la VM
@@ -26,7 +26,7 @@ Je laisse toutes les options à blanc  `entrer`
 pas de wins `entrer`
 
 
-Comme je n’avais pas encore fait les calculs je n’ai pas défini de plage d’adresses. Je reviens donc plus tard dessus via le Gestionnaire de serveur clic droit et on peut ajouter des services, options, redémarrer …)
+> Comme je n’avais pas encore fait les calculs je n’ai pas défini de plage d’adresses. Je reviens donc plus tard dessus via le Gestionnaire de serveur clic droit et on peut ajouter des services, options, redémarrer …)
 
 *italique*
 
