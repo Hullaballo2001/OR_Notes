@@ -5,7 +5,6 @@ categories:
 tags:
   - AIS
   - DHCP
-link: https://github.com/Hullaballo2001/OR_Notes/blob/2ef9640da69a6a5b865783ff12ffdea87599989b/_posts/2022-04-04-Configuration%20du%20serveur%20DHCP%20sur%20Windows%20Server%202008.md
 ---
 
 configuration du serveur DHCP sur la VM
@@ -31,3 +30,6 @@ pas de wins `entrer`
 *italique*
 
 **gras**
+
+![blondin](https://user-images.githubusercontent.com/87373259/161559675-ddee4a87-d1e7-4fdb-bb7f-fb1f0819ca09.jpg)
+
