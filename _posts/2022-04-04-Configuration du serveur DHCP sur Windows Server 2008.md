@@ -4,6 +4,10 @@ Je spécifie une ip fixe 169.254.12.10 puis je vais paramétrer mon serveur DHCP
 
 J’ai sélectionné DHCP, `entrer`
 html
+<img src="https://hullaballo2001.github.io/or_notes/assets/images/20a1c228fe1555792d233663aee3a64f.png" alt="20a1c228fe1555792d233663aee3a64f.png" width="547" height="414" class="jop-noMdConv">
+
+
+
 <img src="/assets/images/20a1c228fe1555792d233663aee3a64f.png" alt="20a1c228fe1555792d233663aee3a64f.png" width="547" height="414" class="jop-noMdConv">
 
 md
