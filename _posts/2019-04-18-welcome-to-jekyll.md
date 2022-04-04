@@ -39,3 +39,6 @@ configuration du serveur DHCP sur la VM
 Je spécifie une ip fixe 169.254.12.10 puis je vais paramétrer mon serveur DHCP en cliquant sur choisir un rôle
 
 J’ai sélectionné DHCP, `entrer`
+
+![c96f35c301a168ade93cda7654283856](https://user-images.githubusercontent.com/87373259/161554578-0bb69b9a-3f7e-44f1-be5a-1f1988370cbf.png)
+
