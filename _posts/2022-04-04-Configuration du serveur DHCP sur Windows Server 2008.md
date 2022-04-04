@@ -1,11 +1,18 @@
 ---
-title: "Post: 1 - Configuration d'un serveur DHCP sur Windows Server 2008"
+title: "Quête réseau 1 - Configuration d'un serveur DHCP sur Windows Server 2008"
 categories:
   - AIS
 tags:
   - AIS
   - DHCP
 ---
+excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
+header:
+  overlay_image: ![blondin](https://user-images.githubusercontent.com/87373259/161559675-ddee4a87-d1e7-4fdb-bb7f-fb1f0819ca09.jpg)
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "More Info"
+      url: "https://unsplash.com"
 
 configuration du serveur DHCP sur la VM
 
