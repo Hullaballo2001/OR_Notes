@@ -4,6 +4,9 @@ Je spécifie une ip fixe 169.254.12.10 puis je vais paramétrer mon serveur DHCP
 
 J’ai sélectionné DHCP, `entrer`
 
+<img src="assets/images/20a1c228fe1555792d233663aee3a64f.png" alt="20a1c228fe1555792d233663aee3a64f.png" width="547" height="414" class="jop-noMdConv">
+
+
 <img src="../../../_resources/20a1c228fe1555792d233663aee3a64f.png" alt="20a1c228fe1555792d233663aee3a64f.png" width="547" height="414" class="jop-noMdConv">
 
 Je laisse toutes les options à blanc  `entrer`
