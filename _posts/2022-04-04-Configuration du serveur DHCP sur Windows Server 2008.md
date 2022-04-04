@@ -1,23 +1,27 @@
+---
+title: "Post: 1 - Configuration d'un serveur DHCP sur Windows Server 2008"
+categories:
+  - AIS
+tags:
+  - AIS
+  - DHCP
+link: https://github.com
+---
+
 configuration du serveur DHCP sur la VM
 
 Je spécifie une ip fixe 169.254.12.10 puis je vais paramétrer mon serveur DHCP en cliquant sur choisir un rôle
 
 J’ai sélectionné DHCP, `entrer`
 html
-<img src=" https://hullaballo2001.github.io/OR_Notes/assets/images/20a1c228fe1555792d233663aee3a64f.png" alt="20a1c228fe1555792d233663aee3a64f.png" width="547" height="414" class="jop-noMdConv">
+<img src="https://hullaballo2001.github.io/OR_Notes/assets/images/20a1c228fe1555792d233663aee3a64f.png" alt="20a1c228fe1555792d233663aee3a64f.png" width="547" height="414" class="jop-noMdConv">
 
 
 
-<img src="/assets/images/20a1c228fe1555792d233663aee3a64f.png" alt="20a1c228fe1555792d233663aee3a64f.png" width="547" height="414" class="jop-noMdConv">
-
-md
-![image-center](/assets/images/20a1c228fe1555792d233663aee3a64f.png){: .align-center}
-
-<img src="../../../_resources/20a1c228fe1555792d233663aee3a64f.png" alt="20a1c228fe1555792d233663aee3a64f.png" width="547" height="414" class="jop-noMdConv">
 
 Je laisse toutes les options à blanc  `entrer`
 
-<img src="../../../_resources/c96f35c301a168ade93cda7654283856.png" alt="c96f35c301a168ade93cda7654283856.png" width="544" height="399" class="jop-noMdConv">
+<img src="https://hullaballo2001.github.io/OR_Notes/assets/images/c96f35c301a168ade93cda7654283856.png" alt="c96f35c301a168ade93cda7654283856.png" width="544" height="399" class="jop-noMdConv">
 
 pas de wins `entrer`
 
