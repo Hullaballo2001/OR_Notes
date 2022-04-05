@@ -1,8 +1,8 @@
 main:
+  - title: "AIS 2022"
+    url: /ais2022/
   - title: "Posts"
     url: /posts/
-  - title: "Quêtes"
-    url: /quetes/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
