@@ -34,6 +34,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
+  - _collections
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -106,10 +107,16 @@ defaults:
       layout: single
       author_profile: true
   #_collections
-  collections:
-      netwok_quests:
-      quest: true
-      output: true
+   - scope:
+      path: "_collections"
+      type: collections
+    values:
+      layout: single
+      author_profile: true
+  #collections:
+  #    netwok_quests:
+  #    quest: true
+  #    output: true
   #- scope:
   #    path: "_collections"
   #    type: collection
