@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   А. Lincoln
 twitter_username: rouliettaaa
 github_username: Hullaballo2001
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -105,6 +105,19 @@ defaults:
     values:
       layout: single
       author_profile: true
+  #_collections
+  collections:
+      netwok_quests:
+      quest: true
+      output: true
+  #- scope:
+  #    path: "_collections"
+  #    type: collection
+  #  values:
+  #    
+  #    layout: single
+  #    author_profile: true
+  #    
 
 category_archive:
   type: liquid
