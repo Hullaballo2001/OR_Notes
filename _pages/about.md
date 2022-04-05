@@ -8,7 +8,7 @@ Ancienne infirmière de bloc opératoire et encore avant analyste-programmeur su
 
 Je souhaite construire un blog afin de partager quelques étapes de la formation AIS : Administrateur Infrastructure Sécurisée pour commencer.
                 
-                                          ******
+                             ------ English ------
 
 Cybersecurity analyst since 2022 following an exciting professional retraining.
 Former operating room nurse and still before analyst-programmer on AS/400. Here is the background!
