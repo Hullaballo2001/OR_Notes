@@ -7,8 +7,6 @@ tags:
   - AIS
   - Réseau
   - DHCP
-  - Windows server 
-link: https://github.com/Hullaballo2001/OR_Notes/blob/d98e8f40dace13954191983b0e6223c60909868a/_posts/2019-04-18-welcome-to-jekyll.md
 ---
 
 ## Reste à voir :
