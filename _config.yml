@@ -108,7 +108,7 @@ defaults:
   #_ais2022
   - scope:
       path: "_ais2022"
-      type: collections
+      type: pages
     values:
       layout: single
       author_profile: true
