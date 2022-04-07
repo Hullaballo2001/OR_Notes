@@ -6,16 +6,13 @@ tags:
   - AIS
   - DHCP
 ---
-excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
+excerpt: "**header with an overlay image**"
 header:
   overlay_image: ![blondin](https://user-images.githubusercontent.com/87373259/161559675-ddee4a87-d1e7-4fdb-bb7f-fb1f0819ca09.jpg)
-#  overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
-#  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-#  actions:
-#    - label: "More Info"
-#      url: "https://unsplash.com"
 
-configuration du serveur DHCP sur la VM
+
+
+Configuration du serveur DHCP sur la VM
 
 Je spécifie une ip fixe 169.254.12.10 puis je vais paramétrer mon serveur DHCP en cliquant sur choisir un rôle
 
