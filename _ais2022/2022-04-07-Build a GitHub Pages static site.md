@@ -1,7 +1,7 @@
 ---
 title: 1 . Build a GitHub Page static site
-updated: 2022-04-05 17:42:51Z
-created: 2022-04-05 15:23:37Z
+updated: 2022-04-07 17:52:51Z
+created: 2022-04-07 15:23:37Z
 categories:
   - AIS
 tags:
