@@ -8,12 +8,12 @@ tags:
 ---
 excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
 header:
-  overlay_image: ![blondin](https://user-images.githubusercontent.com/87373259/161559675-ddee4a87-d1e7-4fdb-bb7f-fb1f0819ca09.jpg) width="1280" 
-  overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
+  overlay_image: ![blondin](https://user-images.githubusercontent.com/87373259/161559675-ddee4a87-d1e7-4fdb-bb7f-fb1f0819ca09.jpg)
+#  overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
+#  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+#  actions:
+#    - label: "More Info"
+#      url: "https://unsplash.com"
 
 configuration du serveur DHCP sur la VM
 
