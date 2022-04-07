@@ -9,8 +9,6 @@ tags:
   - DIY
 ---
 
----
-
 # Pour quoi faire ?
 
 J’ai un dossier professionnel (DP) à monter pour pouvoir valider un titre RNCP d’Administrateur Infrastructures Sécurisées en juillet 2022. Je voudrais pouvoir regrouper, classer, mettre en valeur les markdowns (Joplin ❤️ ) des différents ateliers, quêtes, ctf … réalisés lors de ma formation d’Analyste Cybersécurité à la Wild Code School. Je ferai référence à ces travaux dans le DP, le site étant dans un premier temps une version très détaillée des différents ateliers.
