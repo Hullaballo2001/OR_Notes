@@ -1,22 +1,27 @@
 ---
-title: "Quête réseau 1 - Configuration d'un serveur DHCP sur Windows Server 2008"
+title: "Splash Page"
+layout: splash
+permalink: /splash-page/
 date: 2022-04-08
-categories:
-  - Blog
-tags:
-  - AIS
-  - DHCP
 header:
-  overlay_image: ![légende](https://user-images.githubusercontent.com/87373259/161559675-ddee4a87-d1e7-4fdb-bb7f-fb1f0819ca09.jpg)
-  og_image: ![styled-image](https://user-images.githubusercontent.com/87373259/161559675-ddee4a87-d1e7-4fdb-bb7f-fb1f0819ca09.jpg)
-  caption: "test overlay"
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: ![blondin](https://user-images.githubusercontent.com/87373259/161559675-ddee4a87-d1e7-4fdb-bb7f-fb1f0819ca09.jpg)
+
   actions:
-    - label: "See More"
-      url: https://github.com/Hullaballo2001/OR_Notes/blob/master/_ais2022/2022-04-07-Build%20a%20GitHub%20Pages%20static%20site.md
+    - label: "Download"
+      url: "https://github.com/mmistakes/minimal-mistakes/"
+excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+intro: 
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+
 ---
 
+{% include feature_row id="intro" type="center" %}
 
-excerpt: "This post has an overlay header image"
+{% include feature_row %}
+
+-------------------------------------
   
   ![styled-image](https://user-images.githubusercontent.com/87373259/161559675-ddee4a87-d1e7-4fdb-bb7f-fb1f0819ca09.jpg "Blondin"){: .align-center style="width: 50%;"} __Photo de Blondin à 25%, centrée__{: .align-center styl="font-size:0.9em;"}
 
