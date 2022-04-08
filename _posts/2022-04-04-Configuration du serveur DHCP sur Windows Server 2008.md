@@ -7,11 +7,11 @@ tags:
   - DHCP
 excerpt: "**header with an overlay image**"
 header:
-  overlay_image: ![blondin](https://user-images.githubusercontent.com/87373259/161559675-ddee4a87-d1e7-4fdb-bb7f-fb1f0819ca09.jpg)
+  header: ![blondin](https://user-images.githubusercontent.com/87373259/161559675-ddee4a87-d1e7-4fdb-bb7f-fb1f0819ca09.jpg)
 ---
 
   
-  ![styled-image](https://user-images.githubusercontent.com/87373259/161559675-ddee4a87-d1e7-4fdb-bb7f-fb1f0819ca09.jpg "Blondin"){: .align-center style="width: 25%;"} __Photo de Blondin à 25%, centréé__
+  ![styled-image](https://user-images.githubusercontent.com/87373259/161559675-ddee4a87-d1e7-4fdb-bb7f-fb1f0819ca09.jpg "Blondin"){: .align-center style="width: 25%;"} __Photo de Blondin à 25%, centrée__{: style="text-align: center; font-size:0.7em;"}
 
 
 
