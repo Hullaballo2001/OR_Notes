@@ -2,7 +2,7 @@
 title: "Quête réseau 1 - Configuration d'un serveur DHCP sur Windows Server 2008"
 date: 2022-04-08
 categories:
-  - article
+  - Blog
 tags:
   - AIS
   - DHCP
