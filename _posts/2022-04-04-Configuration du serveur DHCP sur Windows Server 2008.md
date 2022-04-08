@@ -1,17 +1,23 @@
 ---
 title: "Quête réseau 1 - Configuration d'un serveur DHCP sur Windows Server 2008"
+date: 2022-04-08
 categories:
   - AIS
 tags:
   - AIS
   - DHCP
-excerpt: "**header with an overlay image**"
 header:
-  header: ![blondin](https://user-images.githubusercontent.com/87373259/161559675-ddee4a87-d1e7-4fdb-bb7f-fb1f0819ca09.jpg)
+  overlay_image: ![blondin](https://user-images.githubusercontent.com/87373259/161559675-ddee4a87-d1e7-4fdb-bb7f-fb1f0819ca09.jpg)
+  og_image: ![blondin](https://user-images.githubusercontent.com/87373259/161559675-ddee4a87-d1e7-4fdb-bb7f-fb1f0819ca09.jpg)
+  caption: "test overlay"
+  actions:
+    - label: "See More"
+      url: https://github.com/Hullaballo2001/OR_Notes/blob/master/_ais2022/2022-04-07-Build%20a%20GitHub%20Pages%20static%20site.md
+excerpt: "This post has an overlay header image"
 ---
 
   
-  ![styled-image](https://user-images.githubusercontent.com/87373259/161559675-ddee4a87-d1e7-4fdb-bb7f-fb1f0819ca09.jpg "Blondin"){: .align-center style="width: 25%;"} __Photo de Blondin à 25%, centrée__{: style="text-align: center; font-size:0.7em;"}
+  ![styled-image](https://user-images.githubusercontent.com/87373259/161559675-ddee4a87-d1e7-4fdb-bb7f-fb1f0819ca09.jpg "Blondin"){: .align-center style="width: 25%;"} __Photo de Blondin à 25%, centrée__{: .align-center; font-size:0.5em;"}
 
 
 
