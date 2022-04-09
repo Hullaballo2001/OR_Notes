@@ -7,6 +7,8 @@ tags:
   - AIS
   - Réseau
   - DHCP
+toc: true
+toc_label: "Contents"
 ---
 
 ## Reste à voir :
