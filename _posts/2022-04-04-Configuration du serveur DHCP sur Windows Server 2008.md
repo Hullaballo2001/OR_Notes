@@ -6,7 +6,7 @@ date: 2022-04-08
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: ![blondin](https://user-images.githubusercontent.com/87373259/161559675-ddee4a87-d1e7-4fdb-bb7f-fb1f0819ca09.jpg)
+  overlay_image: ![internet](https://live.staticflickr.com/8084/8396909762_813a2b1829_h.jpg)
 
   actions:
     - label: "Download"
@@ -23,7 +23,7 @@ intro:
 
 -------------------------------------
   
-  ![styled-image](https://user-images.githubusercontent.com/87373259/161559675-ddee4a87-d1e7-4fdb-bb7f-fb1f0819ca09.jpg "Blondin"){: .align-center style="width: 50%;"} __Photo de Blondin à 25%, centrée__{: .align-center styl="font-size:0.9em;"}
+  ![styled-image](https://user-images.githubusercontent.com/87373259/161559675-ddee4a87-d1e7-4fdb-bb7f-fb1f0819ca09.jpg "Blondin"){: .align-center style="width: 50%;"} __Photo de Blondin à 50%, centrée__{: .align-center}
 
 
 
