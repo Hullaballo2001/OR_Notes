@@ -1,11 +1,11 @@
 ---
-title: "Splash Page"
+title: "Splash Page : Config DHCP sur Windows Server 2008"
 layout: splash
 permalink: /splash-page/
 date: 2022-04-08
 header:
-  overlay_color: # "#000"
-  overlay_filter: # "0.5"
+  overlay_color: #"#000"
+  overlay_filter: #"0.5"
   overlay_image: ![unsplash-image-9](https://user-images.githubusercontent.com/87373259/162613253-94a97ad1-3fe2-46ba-bb47-0f0c380c2aac.jpg)
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
@@ -14,7 +14,6 @@ header:
 excerpt: "Texte sur l'image, aligné à gauche."
 intro: 
   - excerpt: 'texte d'intro sous le header *proin faucibus*, markdown ok, centré. Centered with `type="center"`'
-
 ---
 
 {% include feature_row id="intro" type="center" %}
