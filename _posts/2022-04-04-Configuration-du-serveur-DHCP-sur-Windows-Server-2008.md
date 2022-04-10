@@ -1,11 +1,13 @@
 ---
 title: "Splash Page : Config DHCP sur Windows Server 2008"
-layout: splash
-permalink: /splash-page/
+layout: single
 date: 2022-04-08
+categories:
+    - "AIS"
+tags:
+    - DHCP
+    - Test 
 header:
-  overlay_color: #"#000"
-  overlay_filter: #"0.5"
   overlay_image: ![unsplash-image-9](https://user-images.githubusercontent.com/87373259/162613253-94a97ad1-3fe2-46ba-bb47-0f0c380c2aac.jpg)
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
