@@ -1,27 +1,28 @@
 ---
-title: "Splash Page : Config DHCP sur Windows Server 2008"
-layout: splash
-date: 2022-04-08
+title: "test overlay/splash !"
+date: 2022-04-10
 categories:
-    - "AIS"
+  - AIS
 tags:
-    - DHCP
-    - Test 
+  - AIS
+  - Test
+  - DHCP
+toc: true
+toc_label: "Contents"
+layout: splash
+permalink: /splash-page/
 header:
-  overlay_image: ![unsplash-image-9](https://user-images.githubusercontent.com/87373259/162613253-94a97ad1-3fe2-46ba-bb47-0f0c380c2aac.jpg)
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: ![unsplash-image-9](https://user-images.githubusercontent.com/87373259/162627380-61ddb01c-efdc-429b-9f6a-f6d539982a78.jpg)
+
   actions:
     - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
-excerpt: "Texte sur l'image, aligné à gauche."
-intro: 
-  - excerpt: 'texte d'intro sous le header *proin faucibus*, markdown ok, centré. Centered with `type="center"`'
+      url: "#test-link"
+excerpt: "Texte incrusté sur image."
 ---
 
-{% include feature_row id="intro" type="center" %}
 
-
--------------------------------------
   
   ![styled-image](https://user-images.githubusercontent.com/87373259/161559675-ddee4a87-d1e7-4fdb-bb7f-fb1f0819ca09.jpg "Blondin"){: .align-center style="width: 50%;"} __Photo de Blondin à 50%, centrée__{: style="text-align: center;"}
 
