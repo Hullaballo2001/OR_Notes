@@ -9,7 +9,7 @@ tags:
   - DHCP
 toc: true
 toc_label: "Contents"
-layout: splash
+layout: wide
 permalink: /splash-page/
 header:
   overlay_color: "#000"
