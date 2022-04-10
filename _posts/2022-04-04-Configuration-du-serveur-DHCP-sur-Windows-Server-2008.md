@@ -1,6 +1,6 @@
 ---
 title: "Splash Page : Config DHCP sur Windows Server 2008"
-layout: single
+layout: splash
 date: 2022-04-08
 categories:
     - "AIS"
