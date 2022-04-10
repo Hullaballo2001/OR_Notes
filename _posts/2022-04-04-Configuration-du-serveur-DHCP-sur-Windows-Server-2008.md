@@ -9,7 +9,10 @@ tags:
   - DHCP
 toc: true
 toc_label: "Contents"
-layout: wide
+toc_icon : "heart"
+toc_sticky: true
+layout: single
+classes: wide
 permalink: /splash-page/
 header:
   overlay_color: "#000"
