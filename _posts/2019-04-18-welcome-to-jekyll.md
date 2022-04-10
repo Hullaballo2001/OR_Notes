@@ -11,12 +11,16 @@ toc: true
 toc_label: "Contents"
 ---
 
-## Reste à voir :
+# Reste à voir :
 - comment gérer les images
 
 # titre 1
 ## titre 2
 ### titre 3
+### titre 4
+### titre 3
+## titre 2
+
 'code'
 *italique*
 **gras**
