@@ -10,10 +10,10 @@ tags:
 toc: true
 toc_label: "Contents"
 toc_icon : "heart"
-toc_sticky: true
+toc_sticky: #true
 layout: single
 classes: wide
-permalink: /splash-page/
+permalink: #/splash-page/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
