@@ -2,11 +2,10 @@
 title: "1 . Build a GitHub Page static site"
 updated: 2022-04-07 17:52:51Z
 created: 2022-04-07 15:23:37Z
-categories:
-  - AIS
-tags:
-  - GH Pages
-  - DIY
+toc: true
+toc_label: "Contents"
+toc_icon : ""
+toc_sticky: #true
 ---
 
 # Pour quoi faire ?
@@ -33,15 +32,13 @@ OR_Notes est né le 4 mars 2022 👶
 
 Pour chaque fichier on peut le lire en cliquant dessus, l'éditer avec le crayon, le supprimer avec la poubelle, ...
 
-<img src="../../_resources/2fb0918a4ef1ff8f251b2b554c3a6245.png" alt="2fb0918a4ef1ff8f251b2b554c3a6245.png" width="659" height="110">
-![2fb0918a4ef1ff8f251b2b554c3a6245](https://user-images.githubusercontent.com/87373259/162174280-6d664490-4038-4ce4-a8d9-b14ab4519887.png)
-
+![2fb0918a4ef1ff8f251b2b554c3a6245](https://user-images.githubusercontent.com/87373259/162788635-123bf159-32ff-4a19-8df0-76623f64af77.png)
 
 Et quand on l'a modifié on ajoute un commentaire pour dire ce qu'on a fait "ajout de AIS 2022" par ex, et on "commit change". Cela (grâce à MM) lance directement la modification du code après vérification et la construction du site dans la foulée. Si problème la coche verte est remplacée par une croix rouge. Cliquer dessus pour essayer de comprendre ce qui ne lui a pas plut ...
 
 Il y a possibilité de revenir en arrière en cliquant sur "History" en haut à droite puis "browse ... at this point"
 
-![2c69d5b2457ef9c48e0bececfa1026fc.png](../../_resources/2c69d5b2457ef9c48e0bececfa1026fc.png)
+![2c69d5b2457ef9c48e0bececfa1026fc](https://user-images.githubusercontent.com/87373259/162788735-7948d0dd-04c2-476d-97e4-cd7a9843096c.png)
 
 ## _data
 
@@ -67,19 +64,21 @@ main:
 
 Les pages par défaut et les options pratiques : tags, regroupement des posts par année et les catégories (déclarées dans le “cartouche” de chaque post)
 
-![17befe571ba389e4989def96f11fc694.png](../../_resources/17befe571ba389e4989def96f11fc694.png)
+![17befe571ba389e4989def96f11fc694](https://user-images.githubusercontent.com/87373259/162788827-74a73765-e937-4042-9991-352cba5771e3.png)
 
 Par ex la page  du 404 (noter les boutons du haut qui sont paramétrés dans le navigation.yml. Le pied de page (footer) et les boutons de gauche sont gérés dans le _config.yml
 
-![f0c9bdd3e194e555db2519c59bdfe6e7.png](../../_resources/f0c9bdd3e194e555db2519c59bdfe6e7.png)
+![f0c9bdd3e194e555db2519c59bdfe6e7](https://user-images.githubusercontent.com/87373259/162788920-dbd17c6f-deee-4c9b-a180-7460f34d7a53.png)
 
 ## _posts
 
-Les articles de blog (posts) par défaut nous montrant les différentes possibilités de mise en forme, navigation ![5eb52289ad68c3cdab2813dbb53d6609.png](../../_resources/5eb52289ad68c3cdab2813dbb53d6609.png)
+Les articles de blog (posts) par défaut nous montrant les différentes possibilités de mise en forme, navigation
+
+![5eb52289ad68c3cdab2813dbb53d6609](https://user-images.githubusercontent.com/87373259/162789030-32cc3ca2-548e-4b46-b45b-9dd08f91802a.png)
 
 Comment ajouter un post ? “AddFile” en haut à droite et soit on en créé un vide qu’on peut écrire ex nihilo soit on importe un markdown. Pour ce faire il faut d’abord l’exporter en “Markdown + Front Matter” ce qui créé un dossier avec le .md et un autre dossier avec les ressources (images).
 
-<img src="../../_resources/c1696f8ec0fb8ce227cddbe0b607a584.png" alt="c1696f8ec0fb8ce227cddbe0b607a584.png" width="421" height="219" class="jop-noMdConv">
+![c1696f8ec0fb8ce227cddbe0b607a584](https://user-images.githubusercontent.com/87373259/162789089-2064587e-f22e-46df-949a-549898a560e2.png)
 
 Un ex de markdown modifié pour tester différentes choses :
 
@@ -132,7 +131,7 @@ Alors là c’est encore un peu obscur :
 
 \- Soit on peut, quand on est en édition d’un post aller en bas de l’éditeur et on clique sur "Attach files … " et cela nous insert, là où on est l’image choisie dans le dossier _ressources créé lors de l’export du markdown (ou sur le net, ou dans un autre dossier sur notre pc). Et là ça nous donne un tag kramdown de l'image.
 
-![839e117da569c60c8b18420a0a0a989f.png](../../_resources/839e117da569c60c8b18420a0a0a989f.png)
+![839e117da569c60c8b18420a0a0a989f](https://user-images.githubusercontent.com/87373259/162789201-47eaed0c-60bd-4729-82c2-7701c0184286.png)
 
 Il y a une 3ème methode avec "liquid" mais je n'en suis pas encore là !
 
@@ -146,7 +145,7 @@ Il mérite une page à lui tout seul (insert link)
 
 Il se passe tout un tas de trucs en bas de page ... aucune idée d'où tout cela est géré :frown: 
 
-![8634ba784541e8c36c287d968eeb3be8.png](../../_resources/8634ba784541e8c36c287d968eeb3be8.png)
+![8634ba784541e8c36c287d968eeb3be8](https://user-images.githubusercontent.com/87373259/162789284-930019b6-24aa-4877-8d45-e56dbdddc1a4.png)
 
 Comment créer un sommaire général (TOC), un plan du site (sitemap), et un sommaire pour chaque page ?
 
