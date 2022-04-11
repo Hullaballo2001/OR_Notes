@@ -111,7 +111,7 @@ defaults:
   #_ais2022
   - scope:
       path: "_ais2022"
-      type: posts
+      type: ais2022
     values:
       layout: single
       author_profile: true
