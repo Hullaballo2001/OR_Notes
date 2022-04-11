@@ -34,9 +34,6 @@ collections:
   ais2022:
     output: true
     permalink: /:collection/:path/
-  ateliers-reseau:
-   output: true
-   permalink: /:collection/:path/
 
 include:
   - _pages
@@ -118,15 +115,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  #ateliers-reseau
-  - scope:
-    path: ""
-    type: ais2022
-  values:
-    layout: single
-    author_profile: true
-    share: true
-    comments: false
 
 category_archive:
   type: liquid
