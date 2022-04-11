@@ -19,12 +19,3 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
-
--------------------------------------
- 
-
-Configuration du serveur DHCP sur la VM
-
-Je spécifie une ip fixe 169.254.12.10 puis je vais paramétrer mon serveur DHCP en cliquant sur choisir un rôle
-
-J’ai sélectionné DHCP, `entrer`
