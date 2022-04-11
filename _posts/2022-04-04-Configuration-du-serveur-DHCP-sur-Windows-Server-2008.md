@@ -11,9 +11,7 @@ toc: true
 toc_label: "Contents"
 toc_icon : "heart"
 toc_sticky: #true
-layout: single
 classes: wide
-permalink: #/splash-page/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -21,7 +19,7 @@ header:
 
   actions:
     - label: "Download"
-      url: "#test-link"
+      url: http://www.google.fr
 excerpt: "Texte incrusté sur image."
 ---
 
