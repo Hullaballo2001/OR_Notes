@@ -29,13 +29,13 @@ toc_sticky: true
 
 \- pour avoir le nombre d’hôtes par réseau : 2<sup>(nb de zéros du masque)</sup> \- 2 (idem sauf pour /31 et /32 où il n’y en a qu’une des deux ou zéro)
 
-![7933f0aa79b7e5bbbac94ae007e24eee.png](:/2db384174e1d452f8ccf95f322b24199)  
+![7933f0aa79b7e5bbbac94ae007e24eee](https://user-images.githubusercontent.com/87373259/163793766-a6c881ac-2ba9-4a20-9f93-814f8f2ac67c.png)
 
-
-**255.255.255.255** [broadcasts](https://www.computerhope.com/jargon/b/broadcas.htm) to all hosts on the local network.
+**255.255.255.255** [broadcasts] to all hosts on the local network.
 
 https://www.computerhope.com/jargon/i/ip.htm
-![cabd9495c052ed701a8638221bcc5163.png](:/eeb6e28803794eb5878c74bb4ff66ea8)
+
+![cabd9495c052ed701a8638221bcc5163](https://user-images.githubusercontent.com/87373259/163793805-7d81bc8f-f2fc-4093-94dd-85da11cacc52.png)
 
 
 Comme montré par le tableau précédent, le masque de réseau est déterminé par le nombre de bits pour le réseau selon la classe de l’adresse.
