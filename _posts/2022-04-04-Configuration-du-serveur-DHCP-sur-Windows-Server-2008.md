@@ -13,9 +13,7 @@ toc_icon : "columns"
 toc_sticky: true
 classes: wide
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: ![unsplash-image-9](https://user-images.githubusercontent.com/87373259/162627380-61ddb01c-efdc-429b-9f6a-f6d539982a78.jpg)
+  image: ![unsplash-image-9](https://user-images.githubusercontent.com/87373259/162627380-61ddb01c-efdc-429b-9f6a-f6d539982a78.jpg)
 
   actions:
     - label: "Download"
@@ -27,7 +25,7 @@ excerpt: "Texte incrusté sur image."
 # titre 1
 
   
-  ![styled-image](https://user-images.githubusercontent.com/87373259/161559675-ddee4a87-d1e7-4fdb-bb7f-fb1f0819ca09.jpg "Blondin"){: .align-center style="width: 50%;"} __Photo de Blondin à 50%, centrée__{: style="text-align: center;"}
+  ![styled-image](https://user-images.githubusercontent.com/87373259/161559675-ddee4a87-d1e7-4fdb-bb7f-fb1f0819ca09.jpg "Blondin"){: .align-center style="width: 50%;"} __Photo de Blondin à 50%, centrée__
 
 
 
