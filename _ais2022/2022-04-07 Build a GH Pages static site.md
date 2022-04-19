@@ -5,7 +5,7 @@ created: 2022-04-07 15:23:37Z
 toc: true
 toc_label: "Contents"
 toc_icon : ""
-toc_sticky: #true
+classes: wide
 ---
 
 # Pour quoi faire ?
