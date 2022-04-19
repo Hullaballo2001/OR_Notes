@@ -13,7 +13,7 @@ toc_icon : "columns"
 toc_sticky: true
 classes: wide
 header:
-  image: https://user-images.githubusercontent.com/87373259/162627380-61ddb01c-efdc-429b-9f6a-f6d539982a78.jpg
+  overlay_image: https://user-images.githubusercontent.com/87373259/162627380-61ddb01c-efdc-429b-9f6a-f6d539982a78.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "Download"
