@@ -90,6 +90,13 @@ footer:
       url: "https://twitter.com/rouliettaaa"
 
 defaults:
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"
   # _posts
   - scope:
       path: ""
