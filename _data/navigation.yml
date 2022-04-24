@@ -9,3 +9,17 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+    
+docs:
+  - title: "AIS 2022"
+    children:
+      - title: "Adressage IP - Ressources"
+        url: https://github.com/Hullaballo2001/OR_Notes/blob/master/_ais2022/2021-11-14-Quete-0-Adressage-IP-ressources.md
+      - title: "Structure"
+        url: https://github.com/Hullaballo2001/OR_Notes/blob/master/_ais2022/2022-04-07%20Build%20a%20GH%20Pages%20static%20site.md
+
+  - title: Posts
+    children:
+      - title: "Windows : Configuration DHCP"
+        url: https://github.com/Hullaballo2001/OR_Notes/blob/master/_posts/2022-04-04-Configuration-du-serveur-DHCP-sur-Windows-Server-2008.md
+     
